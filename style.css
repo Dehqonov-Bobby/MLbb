@@ -75,26 +75,35 @@
             }
         }
 
-        .Back{
+        .Back {
             width: 50px;
             height: 20px;
             font-size: 7px;
 
-            i{
+            i {
                 margin-right: 5px;
             }
         }
 
-        .row{
+        .row {
             flex-direction: column;
 
-            .lichka{
+            .lichka {
                 border: 1px solid black;
                 border-right-color: black;
                 width: 100%;
+
+                .logo {
+                    width: 30px;
+                    height: 50px;
+                    margin: 5px;
+                    background-size: cover;
+                    border-radius: 100%;
+                    margin-left: 50px;
+                }
             }
 
-            .about{
+            .about {
                 width: 100%;
                 margin-left: -65px;
             }
@@ -131,26 +140,26 @@
             }
         }
 
-        .Back{
+        .Back {
             width: 50px;
             height: 20px;
             font-size: 7px;
 
-            i{
+            i {
                 margin-right: 5px;
             }
         }
 
-        .row{
+        .row {
             flex-direction: column;
 
-            .lichka{
+            .lichka {
                 border: 1px solid black;
                 border-right-color: black;
                 width: 100%;
             }
 
-            .about{
+            .about {
                 width: 100%;
                 margin-left: -65px;
             }
@@ -186,26 +195,86 @@
             }
         }
 
-        .Back{
+        .Back {
             width: 50px;
             height: 20px;
             font-size: 7px;
 
-            i{
+            i {
                 margin-right: 5px;
             }
         }
 
-        .row{
+        .row {
             flex-direction: column;
 
-            .lichka{
+            .lichka {
                 border: 1px solid black;
                 border-right-color: black;
                 width: 100%;
             }
 
-            .about{
+            .about {
+                width: 100%;
+                margin-left: -65px;
+            }
+        }
+    }
+
+
+
+
+
+    .container5 {
+        width: 100%;
+
+        .navbar {
+            width: 100%;
+            display: flex;
+
+            .Name {
+                font-size: 10px;
+                margin-left: 20px;
+            }
+
+            #Search {
+                margin-left: 50px;
+                width: 280px;
+                border: 0px;
+            }
+
+            .button {
+                font-size: 10px;
+                text-align: center;
+                padding-left: 15px;
+                border-radius: 0px;
+            }
+
+            .logo{
+                margin-left: 200px;
+            }
+        }
+
+        .Back {
+            width: 50px;
+            height: 20px;
+            font-size: 7px;
+
+            i {
+                margin-right: 5px;
+            }
+        }
+
+        .row {
+            flex-direction: column;
+
+            .lichka {
+                border: 1px solid black;
+                border-right-color: black;
+                width: 100%;
+            }
+
+            .about {
                 width: 100%;
                 margin-left: -65px;
             }
@@ -295,26 +364,26 @@
             }
         }
 
-        .Back{
+        .Back {
             width: 50px;
             height: 20px;
             font-size: 7px;
 
-            i{
+            i {
                 margin-right: 5px;
             }
         }
 
-        .row{
+        .row {
             flex-direction: column;
 
-            .lichka{
+            .lichka {
                 border: 1px solid black;
                 border-right-color: black;
                 width: 100%;
             }
 
-            .about{
+            .about {
                 width: 100%;
                 margin-left: -65px;
             }
@@ -351,26 +420,26 @@
             }
         }
 
-        .Back{
+        .Back {
             width: 50px;
             height: 20px;
             font-size: 7px;
 
-            i{
+            i {
                 margin-right: 5px;
             }
         }
 
-        .row{
+        .row {
             flex-direction: column;
 
-            .lichka{
+            .lichka {
                 border: 1px solid black;
                 border-right-color: black;
                 width: 100%;
             }
 
-            .about{
+            .about {
                 width: 100%;
                 margin-left: -65px;
             }
@@ -406,26 +475,26 @@
             }
         }
 
-        .Back{
+        .Back {
             width: 50px;
             height: 20px;
             font-size: 7px;
 
-            i{
+            i {
                 margin-right: 5px;
             }
         }
 
-        .row{
+        .row {
             flex-direction: column;
 
-            .lichka{
+            .lichka {
                 border: 1px solid black;
                 border-right-color: black;
                 width: 100%;
             }
 
-            .about{
+            .about {
                 width: 100%;
                 margin-left: -65px;
             }
@@ -514,26 +583,26 @@
             }
         }
 
-        .Back{
+        .Back {
             width: 70px;
             height: 30px;
             font-size: 10px;
 
-            i{
+            i {
                 margin-right: 5px;
             }
         }
 
-        .row{
+        .row {
             flex-direction: column;
 
-            .lichka{
+            .lichka {
                 border: 1px solid black;
                 border-right-color: black;
                 width: 100%;
             }
 
-            .about{
+            .about {
                 width: 100%;
                 margin-left: -65px;
             }
@@ -571,26 +640,26 @@
             }
         }
 
-        .Back{
+        .Back {
             width: 70px;
             height: 30px;
             font-size: 10px;
 
-            i{
+            i {
                 margin-right: 5px;
             }
         }
 
-        .row{
+        .row {
             flex-direction: column;
 
-            .lichka{
+            .lichka {
                 border: 1px solid black;
                 border-right-color: black;
                 width: 100%;
             }
 
-            .about{
+            .about {
                 width: 100%;
                 margin-left: -65px;
             }
@@ -626,26 +695,26 @@
             }
         }
 
-        .Back{
+        .Back {
             width: 70px;
             height: 30px;
             font-size: 10px;
 
-            i{
+            i {
                 margin-right: 5px;
             }
         }
 
-        .row{
+        .row {
             flex-direction: column;
 
-            .lichka{
+            .lichka {
                 border: 1px solid black;
                 border-right-color: black;
                 width: 100%;
             }
 
-            .about{
+            .about {
                 width: 100%;
                 margin-left: -65px;
             }
@@ -736,26 +805,26 @@
             }
         }
 
-        .Back{
+        .Back {
             width: 70px;
             height: 30px;
             font-size: 10px;
 
-            i{
+            i {
                 margin-right: 5px;
             }
         }
 
-        .row{
+        .row {
             flex-direction: column;
 
-            .lichka{
+            .lichka {
                 border: 1px solid black;
                 border-right-color: black;
                 width: 100%;
             }
 
-            .about{
+            .about {
                 width: 100%;
                 margin-left: -65px;
             }
@@ -793,26 +862,26 @@
             }
         }
 
-        .Back{
+        .Back {
             width: 70px;
             height: 30px;
             font-size: 10px;
 
-            i{
+            i {
                 margin-right: 5px;
             }
         }
 
-        .row{
+        .row {
             flex-direction: column;
 
-            .lichka{
+            .lichka {
                 border: 1px solid black;
                 border-right-color: black;
                 width: 100%;
             }
 
-            .about{
+            .about {
                 width: 100%;
                 margin-left: -65px;
             }
@@ -848,32 +917,36 @@
             }
         }
 
-        .Back{
+        .Back {
             width: 70px;
             height: 30px;
             font-size: 10px;
 
-            i{
+            i {
                 margin-right: 5px;
             }
         }
 
-        .row{
+        .row {
             flex-direction: column;
 
-            .lichka{
+            .lichka {
                 border: 1px solid black;
                 border-right-color: black;
                 width: 100%;
             }
 
-            .about{
+            .about {
                 width: 100%;
                 margin-left: -65px;
             }
         }
     }
 }
+
+
+
+
 
 /* Not media!!! */
 * {
@@ -884,6 +957,45 @@ body {
     background-color: black;
     margin: 0;
     padding: 0;
+    justify-content: center;
+    align-items: center;
+
+
+
+    .Profile {
+        width: 100%;
+        height: 100vh;
+        background-color: white;
+        text-align: center;
+        display: none;
+
+        .fa-xmark {
+            margin-left: 300px;
+            position: absolute;
+            margin-top: 30px;
+            font-size: 30px;
+            color: black;
+            cursor: pointer;
+        }
+
+        .log {
+            width: 200px;
+            height: 200px;
+            margin-top: 100px;
+            border-radius: 100%;
+        }
+
+        .h1 {
+            font-size: 20px;
+
+            .href {
+                text-decoration: none;
+                color: blue;
+            }
+        }
+    }
+
+
 
     .container {
         width: 100%;
@@ -897,6 +1009,15 @@ body {
             border-bottom: 1px solid gray;
             margin-bottom: 20px;
             align-items: center;
+
+            .logo {
+                width: 30px;
+                height: 30px;
+                margin: 5px;
+                background-size: cover;
+                border-radius: 100%;
+                margin-left: 20px;
+            }
 
             h1 {
                 color: white;
@@ -920,6 +1041,7 @@ body {
                 border: 1px solid gray;
                 background-color: black;
                 color: white;
+                cursor: pointer;
             }
         }
 
@@ -938,7 +1060,7 @@ body {
                     object-fit: cover;
 
                     img {
-                        width: 100%;
+                        width: 90%;
                         height: 180px;
                         object-fit: cover;
                     }
@@ -960,6 +1082,7 @@ body {
                         background-color: black;
                         border-radius: 5px;
                         font-size: 15px;
+                        cursor: pointer;
 
                         i {
                             margin-left: 10px;
@@ -1004,6 +1127,16 @@ body {
             border-bottom: 1px solid gray;
             align-items: center;
 
+            .logo {
+                width: 30px;
+                height: 30px;
+                margin: 5px;
+                background-size: cover;
+                border-radius: 100%;
+                margin-left: 20px;
+            }
+
+
             h1 {
                 color: white;
                 font-size: 20px;
@@ -1040,6 +1173,7 @@ body {
             font-size: 20px;
             justify-content: space-around;
             margin: 10px 0px 10px 30px;
+            cursor: pointer;
 
             i {
                 margin-right: 10px;
@@ -1052,6 +1186,7 @@ body {
             .lichka {
                 width: 70%;
                 margin-left: 30px;
+
 
                 img {
                     width: 90%;
@@ -1111,6 +1246,15 @@ body {
             border-bottom: 1px solid gray;
             align-items: center;
 
+            .logo {
+                width: 30px;
+                height: 30px;
+                margin: 5px;
+                background-size: cover;
+                border-radius: 100%;
+                margin-left: 20px;
+            }
+
             h1 {
                 color: white;
                 font-size: 20px;
@@ -1146,6 +1290,7 @@ body {
             font-size: 20px;
             justify-content: space-around;
             margin: 10px 0px 10px 30px;
+            cursor: pointer;
 
             i {
                 margin-right: 10px;
@@ -1218,6 +1363,15 @@ body {
             border-bottom: 1px solid gray;
             align-items: center;
 
+            .logo {
+                width: 30px;
+                height: 30px;
+                margin: 5px;
+                background-size: cover;
+                border-radius: 100%;
+                margin-left: 20px;
+            }
+
             h1 {
                 color: white;
                 font-size: 20px;
@@ -1253,6 +1407,126 @@ body {
             font-size: 20px;
             justify-content: space-around;
             margin: 10px 0px 10px 30px;
+            cursor: pointer;
+
+            i {
+                margin-right: 10px;
+            }
+        }
+
+        .row {
+            display: flex;
+
+            .lichka {
+                width: 70%;
+                margin-left: 30px;
+
+                img {
+                    width: 90%;
+                }
+
+                h1 {
+                    color: white;
+                    font-size: 20px;
+                }
+
+                h2 {
+                    color: white;
+                    font-size: 20px;
+                }
+
+                h3 {
+                    color: white;
+                    font-size: 20px;
+                }
+
+                a {
+                    text-decoration: none;
+                    color: rgb(89, 89, 243);
+                }
+            }
+
+            .about {
+                width: 27%;
+
+                p {
+                    color: white;
+                    font-size: 20px;
+                    margin-left: 100px;
+                }
+
+                hr {
+                    width: 100%;
+                    border: 1px solid gray;
+                }
+            }
+        }
+    }
+
+
+
+
+
+
+     /* Akk N 4 */
+     .container5 {
+        width: 100%;
+        height: 100vh;
+        display: none;
+
+        .navbar {
+            display: flex;
+            width: 100%;
+            height: 40px;
+            background-color: black;
+            border-bottom: 1px solid gray;
+            align-items: center;
+
+            .logo {
+                width: 30px;
+                height: 30px;
+                margin: 5px;
+                background-size: cover;
+                border-radius: 100%;
+                margin-left: 20px;
+            }
+
+            h1 {
+                color: white;
+                font-size: 20px;
+                margin-left: 100px;
+            }
+
+            input {
+                width: 500px;
+                height: 25px;
+                margin: 5px;
+                padding-left: 20px;
+                border: 0px;
+                margin-left: 300px;
+            }
+
+            button {
+                width: 50px;
+                height: 27px;
+                margin: 5px 5px 5px -7px;
+                border: 1px solid gray;
+                background-color: black;
+                color: white;
+            }
+        }
+
+        button {
+            width: 150px;
+            height: 40px;
+            border: 1px solid gray;
+            border-radius: 5px;
+            color: white;
+            background-color: black;
+            font-size: 20px;
+            justify-content: space-around;
+            margin: 10px 0px 10px 30px;
+            cursor: pointer;
 
             i {
                 margin-right: 10px;
